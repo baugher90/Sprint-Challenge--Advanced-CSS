@@ -205,6 +205,14 @@ p {
 .home .walk .walk-text p {
   margin-bottom: 26px;
 }
+.home .walk .walk-text .btn {
+  height: 30px;
+  width: 80px;
+  background: #23293B;
+  color: #F1F1F1;
+  border-radius: 5px;
+  font-size: 1.6rem;
+}
 .home .walk .walk-img {
   width: 46%;
   margin-left: 4%;
@@ -224,7 +232,7 @@ p {
 .header nav a {
   text-decoration: none;
   justify-content: space-around;
-  color: gray;
+  color: #454A59;
 }
 footer {
   color: #22283B;
