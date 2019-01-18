@@ -145,6 +145,9 @@ h5 {
   font-family: 'Russo One', sans-serif;
   color: #23293B;
 }
+h1 {
+  font-size: 3.8rem;
+}
 h2 {
   font-size: 3.2rem;
 }
@@ -210,6 +213,18 @@ p {
   width: 100%;
   height: auto;
   border-radius: 10px;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+}
+.header nav {
+  display: flex;
+}
+.header nav a {
+  text-decoration: none;
+  justify-content: space-around;
+  color: gray;
 }
 footer {
   color: #22283B;
